@@ -1,7 +1,5 @@
 package bicicleta;
 
-import bicicleta.Bicicleta;
-import bicicleta.Movil;
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
