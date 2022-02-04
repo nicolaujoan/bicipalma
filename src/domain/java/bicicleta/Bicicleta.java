@@ -9,11 +9,11 @@ public class Bicicleta implements Movil {
 
     @Override
     public int getId() {
-        return 0;
+        return id;
     }
 
     @Override
     public String toString() {
-        return  "" + Bicicleta.class + " " + id ;
+        return  "" + id ;
     }
 }
